@@ -1,0 +1,33 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - FZM_CMNetworking (0.1.0):
+    - AFNetworking
+
+DEPENDENCIES:
+  - FZM_CMNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  FZM_CMNetworking:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  FZM_CMNetworking: 0b3525affa7b3009e8ec7216eb4a95ae89618d0a
+
+PODFILE CHECKSUM: d4dc1725c1986b3b591cf4e015660015a36714d5
+
+COCOAPODS: 1.4.0

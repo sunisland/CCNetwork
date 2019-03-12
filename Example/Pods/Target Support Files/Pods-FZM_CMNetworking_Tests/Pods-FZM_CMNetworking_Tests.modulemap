@@ -1,0 +1,6 @@
+framework module Pods_FZM_CMNetworking_Tests {
+  umbrella header "Pods-FZM_CMNetworking_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

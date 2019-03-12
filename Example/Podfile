@@ -1,0 +1,6 @@
+use_frameworks!
+target 'FZM_CMNetworking_Tests' do
+  pod 'FZM_CMNetworking', :path => '../'
+  
+  
+end

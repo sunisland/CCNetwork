@@ -1,0 +1,27 @@
+{
+  "name": "FZM_CMNetworking",
+  "version": "0.1.0",
+  "summary": "A short description of FZM_CMNetworking.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/2711056454@qq.com/FZM_CMNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "2711056454@qq.com": "ccl@disanbo.com"
+  },
+  "source": {
+    "git": "https://gitlab.33.cn/CloudMinerIOS/FZM_CMNetworkingRep.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "FZM_CMNetworking/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}

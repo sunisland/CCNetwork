@@ -1,0 +1,6 @@
+framework module FZM_CMNetworking {
+  umbrella header "FZM_CMNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
